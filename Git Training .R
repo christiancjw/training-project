@@ -8,3 +8,4 @@ library(ggplot2)
 
 ## Why is this not working
 7/8 
+x <- 2
