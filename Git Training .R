@@ -1,7 +1,9 @@
 ##  Github Training ----
 
 library(tidyverse)
-wdw
 library(ggplot2)
 
 2+2+2
+4*4
+
+## Why is this not working
